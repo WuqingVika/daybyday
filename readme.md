@@ -1,7 +1,7 @@
 # :sparkles: :heart: 屎香香的毕业设计材料 :heart: :sparkles:
 小吴庆要挺住:sparkling_heart:  
 
-## 一、材料结构
+## :bowtie: 材料结构 :bowtie:
  - :point_right:1.[参考](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/%E5%8F%82%E8%80%83):学长学姐的论文材料(虽然老师到最后发的:smirk:)
  - :point_right:2.[画图](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/%E7%94%BB%E5%9B%BE):包括er图、各种流程图、Rose画的用例图、泳道、活动图、时序图等。
  - :point_right:3.[claim](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/claim)主要包括老师要求我们交的材料：
@@ -18,4 +18,4 @@
       - [first](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/first)文件夹：主要包括实习报告、开题报告、开题申报表、任务书。
       - [second](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/first)文件夹：主要包括中期汇报表和中期检查表。
       - [three](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/first)文件夹：主要包括答辩ppt。
-      - :sparkling_heart:[shixi](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/shixi)文件夹包含所有在校外实习所提交的材料：四个月的月报、个人小结、项目报告。
+      - :sparkling_heart:[shixi](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/shixi)文件夹：包含所有在校外实习所提交的材料(四个月的月报、个人小结、项目报告)。
