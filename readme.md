@@ -1,7 +1,7 @@
 # :sparkles: :heart: 屎香香的毕业设计材料 :heart: :sparkles:
 小吴庆要挺住:sparkling_heart:  
 
-## :bowtie: 材料结构 :bowtie:
+## :bowtie: 材料结构
  - :point_right:1.[参考](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/%E5%8F%82%E8%80%83):学长学姐的论文材料(虽然老师到最后发的:smirk:)
  - :point_right:2.[画图](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/%E7%94%BB%E5%9B%BE):包括er图、各种流程图、Rose画的用例图、泳道、活动图、时序图等。
  - :point_right:3.[claim](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/claim)主要包括老师要求我们交的材料：
