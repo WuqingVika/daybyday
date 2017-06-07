@@ -16,6 +16,6 @@
  - :point_right: :bowtie:4.[final](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/final):主要是最终所需的所有纸质材料：封面、课题申报表、任务书、开题报告、中期检查表、论文(word和pdf版)。
  - :point_right:5.[hascommit](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit)主要包括未返校在校外实习那段时间所交的材料：
       - [first](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/first)文件夹：主要包括实习报告、开题报告、开题申报表、任务书。
-      - [second](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/first)文件夹：主要包括中期汇报表和中期检查表。
-      - [three](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/first)文件夹：主要包括答辩ppt。
-      - :sparkling_heart:[shixi](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/shixi)文件夹：包含所有在校外实习所提交的材料(四个月的月报、个人小结、项目报告)。
+      - [second](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/second)文件夹：主要包括中期汇报表和中期检查表。
+      - [three](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/three)文件夹：主要包括答辩ppt。
+      - :sparkling_heart:[shixi](https://github.com/WuqingVika/daybyday/tree/master/wuqingvika/hascommit/shixi)文件夹：包含所有在校外实习所提交的材料(四个月的实习月报、个人总结、项目设计任务书等)。
